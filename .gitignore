@@ -1,0 +1,39 @@
+# Ignore temporary files and backup files
+*.*~
+*~
+*.pyc
+*.swp
+*.swo
+
+# Ignore IDE-specific files
+.idea/*
+
+# Ignore robotframework files
+log.html
+output.xml
+debug.txt
+report.html
+foobar.txt
+
+# Ignore miscellaneous files
+~*
+htmlcov
+.coverage
+build/
+MANIFEST
+dist/
+include/
+lib/
+test.py
+bin/
+src/
+src/pepper_fusion.egg-info/ # Updated to match your project name
+pepper_fusion.egg-info/    # Updated to match your project name
+
+# Ignore virtual environment files
+venv/*
+env/*
+
+# Default ignored files
+/shelf/
+/workspace.xml

@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+pepper-fusion-api/__init__.py
+pepper-fusion-data-compare/__init__.py
+pepper-fusion-data-compare/pepper_fusion_filecompare.py
+pepper-fusion-ml-ds/__init__.py
+pepper-fusion-predictive/__init__.py
+pepper_fusion.egg-info/PKG-INFO
+pepper_fusion.egg-info/SOURCES.txt
+pepper_fusion.egg-info/dependency_links.txt
+pepper_fusion.egg-info/requires.txt
+pepper_fusion.egg-info/top_level.txt
