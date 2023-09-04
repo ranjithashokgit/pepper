@@ -5,6 +5,9 @@ pepper-fusion-api/__init__.py
 pepper-fusion-data-compare/__init__.py
 pepper-fusion-data-compare/pepper_fusion_filecompare.py
 pepper-fusion-ml-ds/__init__.py
+pepper-fusion-ml-ds/convert-to-safetensors.py
+pepper-fusion-ml-ds/download-model.py
+pepper-fusion-ml-ds/server.py
 pepper-fusion-predictive/__init__.py
 pepper_fusion.egg-info/PKG-INFO
 pepper_fusion.egg-info/SOURCES.txt
